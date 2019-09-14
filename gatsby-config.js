@@ -5,5 +5,8 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "gatsby-tailwind-starter",
+  },
   plugins: [`gatsby-plugin-postcss`],
 }
